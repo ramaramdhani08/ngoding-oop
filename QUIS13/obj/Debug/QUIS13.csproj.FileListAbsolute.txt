@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2013\Projects\QUIS13\QUIS13\bin\Debug\QUIS13.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\QUIS13\QUIS13\bin\Debug\QUIS13.exe
+c:\users\acer\documents\visual studio 2013\Projects\QUIS13\QUIS13\bin\Debug\QUIS13.pdb
+c:\users\acer\documents\visual studio 2013\Projects\QUIS13\QUIS13\obj\Debug\QUIS13.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\QUIS13\QUIS13\obj\Debug\QUIS13.exe
+c:\users\acer\documents\visual studio 2013\Projects\QUIS13\QUIS13\obj\Debug\QUIS13.pdb
